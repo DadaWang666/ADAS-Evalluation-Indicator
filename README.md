@@ -2,9 +2,9 @@
 
 The relative evaluation indicators for ADAS.
 
-## 1. index_description.md 
+## 1. indicators_description.md 
 
-The indicators in index_description.md were extracted form relative GB.
+The indicators in indicators_description.md were extracted form relative GB.
 
 
 
